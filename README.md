@@ -6,7 +6,7 @@ NOM is the object model on which the Voyager desktop is based.
 
 LICENSE
 ===============
-* Not SPecified
+* CDDL 1.0/LGPL 2.1
 
 COMPILE TOOLS
 ===============
